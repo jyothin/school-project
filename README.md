@@ -11,7 +11,11 @@ HPS(B) school computer science project
 dosbox GWBASIC.EXE
 ```
 
-In the GWBASIC Emulator, Load(F3) the program and Run (F2)
+In the GWBASIC Emulator, Load(F3) the program
+```shell
+LOAD"1.BAS"
+```
+and then Run (F2)
 
 Enjoy!
 
