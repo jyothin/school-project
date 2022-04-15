@@ -13,7 +13,7 @@ dosbox GWBASIC.EXE
 
 In the GWBASIC Emulator, Load(F3) the program
 ```shell
-LOAD"1.BAS"
+LOAD"PROGRAM.BAS"
 ```
 and then Run (F2)
 
